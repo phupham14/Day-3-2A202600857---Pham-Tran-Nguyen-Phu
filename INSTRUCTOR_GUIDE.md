@@ -16,7 +16,7 @@ This guide is designed for instructors to lead a 240-minute (4-hour) intensive l
 ### 01. The Hook: Why Agents? (15m)
 - **Demo**: Show a simple chatbot failing a multi-step query (e.g., "Find the cheapest price and calculate total cost with 10% tax").
 - **Key Insight**: Chatbots are good at talking; Agents are good at *acting*.
-
+ 
 ### 02. Phase 1: Tool Design (30m)
 - **Activity**: Students define tools in `src/tools/`.
 - **Teaching Point**: Stress the importance of **Tool Descriptions**. An LLM only knows a tool through its string description.
